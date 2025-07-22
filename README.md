@@ -63,6 +63,14 @@ but to distill meaning from motion.
 <a href="https://www.codechef.com/users/airboeingbus" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
 </a>
+---
+
+## 🌐 Portfolio
+
+You can checkout my Protfolio site which contains some of my work 
+
+🔗 [Portfolio Website](https://yourportfolio.link)  
+📁 [airboeingbus GitHub Projects](https://github.com/airboeingbus?tab=repositories)
 
 ## 📫 Contact  
 
