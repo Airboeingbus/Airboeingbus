@@ -48,7 +48,21 @@ but to distill meaning from motion.
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-2E8B57?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## 🧮 Competitive Programming
+
+<a href="https://leetcode.com/airboeingbus/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/airboeingbus" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/airboeingbus" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+</a>
 
 ## 📫 Contact  
 
