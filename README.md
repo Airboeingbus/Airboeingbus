@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Shaktivell
 
-You can also call me **airboeingbus**. I’m a **Pentumulate Computer Science student at *Amrita Vishwa Vidyapeetham**.  
+You can also call me **airboeingbus**. I’m a **Pentumulate Computer Science student** at *Amrita Vishwa Vidyapeetham**.  
 I enjoy working where hardware meets software — whether it’s simulating avionics systems or diving into console hardware through homebrewing and game development.  
 Currently, I’m seeking to sharpen my problem-solving skills through real-world systems and software challenges.
 
