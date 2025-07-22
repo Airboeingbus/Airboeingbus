@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Shaktivell
 
-You can also call me *airboeingbus. I’m a *Pentumulate Computer Science student at *Amrita Vishwa Vidyapeetham*.  
+You can also call me **airboeingbus**. I’m a **Pentumulate Computer Science student at *Amrita Vishwa Vidyapeetham**.  
 I enjoy working where hardware meets software — whether it’s simulating avionics systems or diving into console hardware through homebrewing and game development.  
 Currently, I’m seeking to sharpen my problem-solving skills through real-world systems and software challenges.
 
@@ -9,8 +9,8 @@ Currently, I’m seeking to sharpen my problem-solving skills through real-world
 ## 🎯 Personal Interests  
 
 I spend time where art and tech cross paths —  
-*music, **cinema, **gaming, **literature, and the occasional **comic panel*.  
-*Commercial aviation* fascinates me; I track flights, follow systems, observe.  
+**music**, **cinema**, **gaming**, **literature**, and the occasional **comic panel**.  
+**Commercial aviation** fascinates me; I track flights, follow systems, observe.  
 And when words press in, I write — not to decorate,  
 but to distill meaning from motion.
 
@@ -52,7 +52,7 @@ but to distill meaning from motion.
 
 ## 📫 Contact  
 
-<a href="https://www.linkedin.com/in/shaktivell/" target="_blank">
+<a href="https://www.linkedin.com/in/s-p-shaktivell-sunder/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
