@@ -1,54 +1,49 @@
-## 👋 Hey there, I’m Shaktivell
+## 👋 Hi, I’m Shaktivell
 
-🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at *Amrita Vishwa Vidyapeetham*.  
-🛩️ I’m deeply interested in **Avionics Systems**, embedded software, and aerospace-grade development.  
-🎮 I’m also passionate about **console hardware**, **game emulation**, and exploring the technical depths of **game development**.
+You can also call me *airboeingbus*.  
+I’m a Pentumulate Computer Science student at *Amrita Vishwa Vidyapeetham*.
+
+I like working where *hardware meets software* — whether it’s simulating flight systems in avionics, exploring console hardware through homebrewing and game development, or building systems that solve real-world problems and challenge my problem-solving skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools & Frameworks
+### 📚 Python Libraries  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🔧 Hardware & Simulation  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FFDD00?style=for-the-badge&logo=espressif&logoColor=black)
-![Wokwi](https://img.shields.io/badge/Wokwi-Simulator-4CAF50?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-552277?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Current Focus Areas
+## 📫 Contact
 
-- 🔧 Building strong fundamentals in **C/C++ and Embedded Systems**
-- ✈️ Deep dive into **Avionics domain** – DO-178C, MISRA C, RTCA standards, and simulation tools
-- 💡 Learning **GitHub & version control** the right way
-- 🧠 Strengthening **DSA & Placement Prep** using C++
-- 🌱 Exploring **IoT Systems** (Project SmartZone-R,Autonomous metal scrap disposal bot, etc.)
-- 🕹️ Tinkering with **emulators** and **console hardware research**
-
----
-
-## 📁 Notable Projects
-
-- **SmartZone-R** – IoT-based runway rubber detection prototype using ESP32 & Wokwi
-- **Discrete Event Simulator** – Simulation model for manufacturing/avionics systems
-- **Flight Recommender System** – ML-based airline link prediction with delay modeling
-- *(More projects on the way!)*
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: `shaktivell@protonmail.com` *(or your actual one)*
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🖥️ [GitHub](https://github.com/airboeingbus)
-
----
-
-> "Precision and depth over speed — that's how I approach both software and avionics."
+<a href="https://www.linkedin.com/in/shaktivell" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:spshaktivellsunder@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40" />
+</a>
