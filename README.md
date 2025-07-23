@@ -3,24 +3,10 @@
 </details>
 
 ---
-
-## 👋 Hi, I’m Shaktivell
-
-You can also call me *airboeingbus. I’m a **Pentumulate Computer Science student* at *Amrita Vishwa Vidyapeetham*.  
-I enjoy working where hardware meets software — whether it’s simulating avionics systems or diving into console hardware through homebrewing and game development.  
-Currently, I’m seeking to sharpen my problem-solving skills through real-world systems and software challenges.
-
----
-
-## 🎯 Personal Interests  
-
-I spend time where art and tech cross paths —  
-*music, **cinema, **gaming, **literature, and the occasional **comic panel*.  
-*Commercial aviation* fascinates me; I track flights, follow systems, observe.  
-And when words press in, I write — not to decorate,  
-but to distill meaning from motion.  
-I also immerse myself in *retro tech* and *retro gaming* — vintage machines and old-school bytes spark joy.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=500&lines=BASIC+v2.0+(C)+VITANY+Business+Machines;64000+BYTES+FREE;READY.;USER:+SHAKTIVELL;ALIAS:+AIRBOEINGBUS;INITIALIZING+PROFILE...;LOADING+BIOGRAPHY+MODULE;Hi,+I’m+Shaktivell.;You+can+also+call+me+airboeingbus.;I’m+a+Pentumulate+Computer+Science+student+at+Amrita+Vishwa+Vidyapeetham.;I+enjoy+working+where+hardware+meets+software;Simulating+avionics+systems...;Homebrewing+console+hardware...;Developing+games...;Sharpening+problem-solving+skills+via+real-world+software+challenges.;LOADING+PERSONAL+MODULES...;---+INTERESTS+---;music,+cinema,+gaming,+literature,+comics.;---+COMMERCIAL+AVIATION+---;Tracking+flights,+following+systems,+observing.;---+RETRO+TECH+---;Vintage+machines,+old-school+bytes,+true+love.;STATUS:+PROFILE+READY+█"
+  />
+</p>
 ---
 
 ## 🛠️ Tech Stack
