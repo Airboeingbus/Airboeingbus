@@ -1,6 +1,12 @@
+<details>
+<summary><b>🖳 Booting System Profile...</b></summary>
+</details>
+
+---
+
 ## 👋 Hi, I’m Shaktivell
 
-You can also call me **airboeingbus**. I’m a **Pentumulate Computer Science student** at **Amrita Vishwa Vidyapeetham**.  
+You can also call me *airboeingbus. I’m a **Pentumulate Computer Science student* at *Amrita Vishwa Vidyapeetham*.  
 I enjoy working where hardware meets software — whether it’s simulating avionics systems or diving into console hardware through homebrewing and game development.  
 Currently, I’m seeking to sharpen my problem-solving skills through real-world systems and software challenges.
 
@@ -9,10 +15,11 @@ Currently, I’m seeking to sharpen my problem-solving skills through real-world
 ## 🎯 Personal Interests  
 
 I spend time where art and tech cross paths —  
-**music**, **cinema**, **gaming**, **literature**, and the occasional **comic panel**.  
-**Commercial aviation** fascinates me; I track flights, follow systems, observe.  
+*music, **cinema, **gaming, **literature, and the occasional **comic panel*.  
+*Commercial aviation* fascinates me; I track flights, follow systems, observe.  
 And when words press in, I write — not to decorate,  
-but to distill meaning from motion.
+but to distill meaning from motion.  
+I also immerse myself in *retro tech* and *retro gaming* — vintage machines and old-school bytes spark joy.
 
 ---
 
@@ -52,25 +59,27 @@ but to distill meaning from motion.
 
 ## 🧮 Competitive Programming
 
-<a href="https://leetcode.com/airboeingbus/" target="_blank">
+<a href="https://leetcode.com/u/spshaktivellsunder/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/airboeingbus" target="_blank">
+<a href="https://www.hackerrank.com/profile/spshaktivellsun" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/airboeingbus" target="_blank">
+<a href="https://www.codechef.com/users/shakti_004" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
 </a>
+
 ---
 
 ## 🌐 Portfolio
 
-You can checkout my Protfolio site which contains some of my work 
+You can check out my portfolio site which contains some of my work:
 
-🔗 [Portfolio Website](https://yourportfolio.link)  
-📁 [airboeingbus GitHub Projects](https://github.com/airboeingbus?tab=repositories)
+🔗 [Portfolio Website](https://yourportfolio.link)
+
+---
 
 ## 📫 Contact  
 
