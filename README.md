@@ -99,7 +99,7 @@ You can explore my projects and creative work here:
   <br><br>
 
   <!-- Wakatime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" />
 
 </p>
 
