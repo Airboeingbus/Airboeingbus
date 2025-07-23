@@ -72,6 +72,38 @@ You can explore my projects and creative work here:
 🔗 [Portfolio Website](https://yourportfolio.link)
 
 ---
+---
+
+## 📈 GitHub Stats & Coding Activity
+
+<p align="center">
+  
+  <!-- Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=airboeingbus&label=Profile+Views&color=green" alt="Profile Views" />
+
+  <br><br>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=airboeingbus&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <br><br>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=airboeingbus&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airboeingbus&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br><br>
+
+  <!-- Wakatime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Airboeingbus&theme=radical" alt="WakaTime Stats" />
+
+</p>
+
+---
 
 ## 📫 Contact  
 
