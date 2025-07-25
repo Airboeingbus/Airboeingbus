@@ -68,8 +68,8 @@ I also immerse myself in *retro tech* and *retro gaming* — vintage machines an
 
 ## 🌐 Portfolio
 
-You can explore my projects and creative work here:  
-🔗 [Portfolio Website](https://yourportfolio.link)
+Visit my Personal Portfolio whicn encompasses me as an induvidual technically and creatively
+🔗 [Portfolio Website](https://airboeingbus.github.io/retro-portfolio/)
 
 ---
 ---
